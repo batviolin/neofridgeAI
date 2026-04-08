@@ -1,0 +1,5 @@
+{
+  "name": "NeoFridge AI",
+  "description": "Smart refrigerator assistant with voice control, inventory management, and Gemini-powered smart features.",
+  "requestFramePermissions": ["microphone"]
+}
